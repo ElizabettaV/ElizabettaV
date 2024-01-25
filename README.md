@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Elizabetta V
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++ and C#
+- 👀 I’m interested in Bussiness Analisis and IT
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: v.elizabetta@gmail.com
+- 📫 You can contact me on: v.elizabetta@gmail.com
 - Nice to meet new people interested in IT
 
 <!---
